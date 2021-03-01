@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "salary": "1000",
+    "age": "34",
+    "field": "All-rounder",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/201.png"
+  }, {
+    "id": 2,
+    "name": "Mushfiqur Rahim",
+    "salary": "950",
+    "age": "34",
+    "field": "Wicket-keeper",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/491.png"
+ }, {
+    "id": 3,
+    "name": "Tamim iqbal",
+    "salary": "999",
+    "age": "35",
+    "field": "Batsman",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/287.png"
+  }, {
+    "id": 4,
+    "name": "Mustafizur Rahman",
+    "salary": "800",
+    "age": "25",
+    "field": "Bowler",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/1594.png" 
+ }, {
+    "id": 5,
+    "name": "Mashrafe Mortaza",
+    "salary": "900",
+    "age": "35",
+    "field": "Bowler",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/391.png"
+ }, {
+    "id": 6,
+    "name": "Mehdy Hasan",
+    "salary": "750",
+    "age": "25",
+    "field": "All-rounder",
+    "img": "https://i.cdn.newsbytesapp.com/sports/players/profile/mehedi-hasan-miraz-1.png"
+ }, {
+    "id": 7,
+    "name": "Liton Das",
+    "salary": "800",
+    "age": "27",
+    "field": "Wicket-kepper",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/1596.png"
+ }, {
+    "id": 8,
+    "name": "Mahmudullah",
+    "salary": "850",
+    "age": "29",
+    "field": "All-rounder",
+    "img": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/492.png"
+ }, {
+    "id": 9,
+    "name": "Soumya Sarkar",
+    "salary": "750",
+    "age": "26",
+    "field": "All-rounder",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/1919.png"
+ }, {
+    "id": 10,
+    "name": "Rubel Hossain",
+    "salary": "600",
+    "age": "27",
+    "field": "Bowler",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/1135.png"
+ }, {
+    "id": 11,
+    "name": "Abu Jayed",
+    "salary": "550",
+    "age": "23",
+    "field": "Bowler",
+    "img": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/3715.png"
+ }, {
+    "id": 12,
+    "name": "Sabbir Rahman",
+    "salary": "600",
+    "age": "28",
+    "field": "All-rounder",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/1734.png"
+ }, {
+    "id": 13,
+    "name": "Mosaddek Hossain",
+    "salary": "500",
+    "age": "24",
+    "field": "Batsman",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/1588.png"
+ }, {
+    "id": 14,
+    "name": "Mohamman Salauddin",
+    "salary": "500",
+    "age": "23",
+    "field": "All-rounder",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/2915.png"
+ }, {
+    "id": 15,
+    "name": "Mohammad Mithun",
+    "salary": "550",
+    "age": "30",
+    "field": "Wicket-kepper",
+    "img": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/284/1733.png"
+ }]
