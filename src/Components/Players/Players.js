@@ -15,7 +15,7 @@ const Players = () => {
     const handleAddPlayer =(player)=>{
         const newAddPlayer = [...addPlayer, player];
         setAddPlayer(newAddPlayer);
-        console.log('added',player);
+        
     }
     return (
         <div className='p-container'>

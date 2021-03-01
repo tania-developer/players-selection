@@ -6,7 +6,7 @@ import { faPlus } from '@fortawesome/free-solid-svg-icons';
 
 const Player = (props) => {
     const { name, field, salary, img } = props.player;
-    console.log(props.player);
+    
     return (
         <div className="player-component">
             <div className="image">
